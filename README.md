@@ -1,5 +1,5 @@
 # Inventory-Management-case-study
-This SQL case study explores inventory and sales data to uncover insights about product profitability, sales trends, employee performance, and customer behavior.
+This project is a comprehensive SQL case study focused on analyzing inventory, sales performance, employee productivity, and customer behavior. It leverages raw transactional data to deliver actionable business insights. The analysis covers profitability, regional sales trends, product performance, and year-over-year growth.
 
 # Project Objective
 - Analyze Profitability Trends across products, categories, and time periods.
