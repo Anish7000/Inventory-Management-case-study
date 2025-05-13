@@ -8,7 +8,7 @@ This SQL case study explores inventory and sales data to uncover insights about 
 - Detect Anomalies and Risks, such as loss-making products and cancelled orders.
 
 # Dataset
-- - <a href="https://github.com/Anish7000/Inventory-Management-case-study/blob/main/Inventory%20Dataset.csv">Dataset</a>
+- <a href="https://github.com/Anish7000/Inventory-Management-case-study/blob/main/Inventory%20Dataset.csv">Dataset</a>
 
 # Questions
 - Which products generated the highest total profit?
@@ -23,7 +23,7 @@ This SQL case study explores inventory and sales data to uncover insights about 
 - Identify products where the standard cost is higher than the selling price (potential loss)
 
   # SQL queries
-  - - <a href="https://github.com/Anish7000/Inventory-Management-case-study/blob/main/inventory%20query.sql">Query</a>
+  - <a href="https://github.com/Anish7000/Inventory-Management-case-study/blob/main/inventory%20query.sql">Query</a>
 
 # Project Outcomes
 - Identified top-performing products and categories based on total and average profit.
